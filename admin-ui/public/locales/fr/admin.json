@@ -146,5 +146,7 @@
     "errorDaysAdvance": "Votre réservation ne doit pas être faite plus de {{num}} jours à l'avance.",
     "errorMaxBookingDuration": "La durée maximale de réservation est de {{num}} heures.",
     "errorTooManyConcurrent": "Limite de capacité atteinte dans la zone sélectionnée.",
-    "errorUnknown": "Erreur inconnue, veuillez réessayer plus tard."
+    "errorUnknown": "Erreur inconnue, veuillez réessayer plus tard.",
+    "limitBookingTo24Hours": "Limiter la réservation à 24 heures",
+    "errorBookingMoreThan24Hours": "Les réservations ne peuvent pas dépasser 24 heures."
 }

@@ -166,5 +166,7 @@
     "editAttribute": "Edit Attribute",
     "confirmDeleteAttribute": "Delete attribute and its values?",
     "enabled": "Enabled",
-    "upgradeCloud": "Upgrade"
+    "upgradeCloud": "Upgrade",
+    "limitBookingTo24Hours": "Limit booking to 24 hours",
+    "errorBookingMoreThan24Hours": "Bookings cannot exceed 24 hours."
 }

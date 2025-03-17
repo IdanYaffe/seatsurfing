@@ -154,5 +154,7 @@
     "errorMinBookingDuration": "La durata minima della prenotazione è di {{num}} ore.",
     "errorTooManyConcurrent": "Limite di capacità raggiunto nell'area selezionata.",
     "errorUnknown": "Errore sconosciuto, riprovare più tardi.",
-    "maxHoursPartiallyBooked": "Ore massime prenotazione parziale"
+    "maxHoursPartiallyBooked": "Ore massime prenotazione parziale",
+    "limitBookingTo24Hours": "Limita la prenotazione a 24 ore",
+    "errorBookingMoreThan24Hours": "Le prenotazioni non possono superare le 24 ore."
 }

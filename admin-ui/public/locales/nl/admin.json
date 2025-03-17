@@ -145,5 +145,7 @@
     "errorDaysAdvance": "Je mag niet meer dan {{num}} dagen van tevoren boeken.",
     "errorMaxBookingDuration": "De maximale boekingsduur is {{num}} uur.",
     "errorTooManyConcurrent": "Capaciteitslimiet bereikt in geselecteerd gebied.",
-    "errorUnknown": "Onbekende fout, probeer het later nog eens."
+    "errorUnknown": "Onbekende fout, probeer het later nog eens.",
+    "limitBookingTo24Hours": "Boeking beperken tot 24 uur",
+    "errorBookingMoreThan24Hours": "Boekingen mogen niet langer duren dan 24 uur."
 }
